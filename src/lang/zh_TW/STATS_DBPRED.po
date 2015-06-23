@@ -1,0 +1,163 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_DBPRED.R:56
+#: STATS_DBPRED.R:155
+msgid "Density-Based Clustering Prediction"
+msgstr ""
+"密度型叢集作業預測"
+
+#: STATS_DBPRED.R:58
+msgid "Density-Based Clustering Prediction: Warnings"
+msgstr ""
+"密度型集群作業預測：警告"
+
+#: STATS_DBPRED.R:62
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"R %s 套件是必要套件，但無法載入。"
+
+#: STATS_DBPRED.R:73
+msgid "The active dataset must have a name"
+msgstr ""
+"作用中資料集必須具有名稱"
+
+#: STATS_DBPRED.R:77
+msgid "The output dataset name is already in use"
+msgstr ""
+"輸出資料集名稱已在使用中"
+
+#: STATS_DBPRED.R:82
+msgid "Either a workspace file or the use-retained option but not both must be specified"
+msgstr ""
+"必須指定工作區檔案或使用保留的選項，但是不能同時指定兩者"
+
+#: STATS_DBPRED.R:92
+msgid "One or more required objects are missing from the specified workspace"
+msgstr ""
+"指定的工作區中遺漏一個以上所需的物件"
+
+#: STATS_DBPRED.R:96
+msgid "The specified workspace does not contain seeds.  It cannot be used for prediction."
+msgstr ""
+"指定的工作區未包含種子。它無法用於預測。"
+
+#: STATS_DBPRED.R:107
+msgid "The following required variables are not in the active dataset: %s"
+msgstr ""
+"在作用中資料集中沒有下列必要的變數：%s"
+
+#: STATS_DBPRED.R:158
+msgid "Computations done by R package fpc function dbscan by Christian Hennig"
+msgstr ""
+"計算由 Christian Hennig 透過 R 套件 fpc 函數 dbscan 完成"
+
+#: STATS_DBPRED.R:160
+msgid "Variables"
+msgstr ""
+"變數"
+
+#: STATS_DBPRED.R:161
+msgid "Method"
+msgstr ""
+"方法"
+
+#: STATS_DBPRED.R:162
+msgid "Min Reachability Distance"
+msgstr ""
+"最小可聯繫距離"
+
+#: STATS_DBPRED.R:163
+msgid "Original Data Scaled"
+msgstr ""
+"調整後的原始資料"
+
+#: STATS_DBPRED.R:164
+msgid "Minimum Cluster Size"
+msgstr ""
+"集群大小下限"
+
+#: STATS_DBPRED.R:165
+msgid "Prediction Dataset"
+msgstr ""
+"預測資料集"
+
+#: STATS_DBPRED.R:166
+msgid "Workspace File Used"
+msgstr ""
+"使用的工作區檔案"
+
+#: STATS_DBPRED.R:167
+msgid "Workspace Creation Date"
+msgstr ""
+"工作區建立日期"
+
+#: STATS_DBPRED.R:168
+msgid "Number of Prediction Cases"
+msgstr ""
+"預測觀察值的數目"
+
+#: STATS_DBPRED.R:169
+msgid "Number of Valid Prediction Cases"
+msgstr ""
+"有效的預測觀察值數目"
+
+#: STATS_DBPRED.R:175
+msgid "Yes"
+msgstr ""
+"是"
+
+#: STATS_DBPRED.R:175
+msgid "No"
+msgstr ""
+"否"
+
+#: STATS_DBPRED.R:178
+msgid "--Retained--"
+msgstr ""
+"--保留--"
+
+#: STATS_DBPRED.R:187
+msgid "Settings and Results Summary"
+msgstr ""
+"設定及結果摘要"
+
+#: STATS_DBPRED.R:188
+#: STATS_DBPRED.R:190
+msgid "Summary"
+msgstr ""
+"摘要"
+
+#: STATS_DBPRED.R:215
+msgid "Predicted Cluster"
+msgstr ""
+"預測集群"
+
+#: STATS_DBPRED.R:276
+msgid "End of procedure"
+msgstr ""
+"程序的結尾"
+
+#: STATS_DBPRED.R:303
+msgid "Message Number"
+msgstr ""
+"訊息號碼"
+
+
