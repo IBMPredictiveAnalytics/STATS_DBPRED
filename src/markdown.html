@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=9" >
+
+<title>STATS DBPRED Extension Command</title>
+
+<link rel="stylesheet" type="text/css" href="extsyntax.css" />
+
+
+
+
+
+</head>
+
+<body>
+<h1>STATS DBPRED Extension Command</h1>
+
+<p>Perform density-based clustering based
+on results from the companion procedure STATS DBSCAN.</p>
+<div class="syntax">
+<p>STATS DBPRED
+DSNAME=<em>dataset name</em><sup>&#42;</sup> ID=<em>variable name</em><br/>
+WORKSPACE = &ldquo;<em>file name</em>&rdquo;<br/>
+USERETAINEDWS = YES or NO<sup>&#42;&#42;</sup><br/>
+/HELP</p>
+
+
+
+<p><sup>&#42;</sup> Required<br/>
+<sup>&#42;&#42;</sup> Default</p>
+</div>
+<p>STATS DBPRED /HELP prints this help and does nothing else.</p>
+
+<pre class="example"><code>STATS DBPRED DSNAME=predicted WORKSPACE=&#39;c:/temp/clus.rdata&#39;
+ID = idvar.
+</code></pre>
+
+<p>The names of the variables to be used to predict the clusters
+are taken from the saved or retained clustering workspace.
+They must exist in the current active dataset.  Cases with
+any missing data will not appear in the output dataset.</p>
+
+<p><strong>DSNAME</strong> specifies the name for the output dataset containing
+the predicted clusters.  The dataset name must not already
+be in use.</p>
+
+<p><strong>ID</strong> is the optional name of a variable in the active dataset to use as 
+the ID in the output dataset.</p>
+
+<p>Either a saved workspace file or a retained workspace containing
+the output from the STATS DBSCAN must be specified.  Use
+<strong>WORKSPACE</strong> to specify a file or specify <strong>USERETAINEDWS</strong>=YES
+to use the most recent workspace retained in the clustering 
+command.</p>
+
+<p>&copy; Copyright IBM Corp. 1989, 2014</p>
+
+</body>
+
+</html>
+
