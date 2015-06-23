@@ -1,0 +1,163 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_DBPRED.R:56
+#: STATS_DBPRED.R:155
+msgid "Density-Based Clustering Prediction"
+msgstr ""
+"밀도 기반 군집 예측"
+
+#: STATS_DBPRED.R:58
+msgid "Density-Based Clustering Prediction: Warnings"
+msgstr ""
+"밀도 기반 군집 예측: 경고"
+
+#: STATS_DBPRED.R:62
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"R %s 패키지가 필요하지만 로드할 수 없습니다."
+
+#: STATS_DBPRED.R:73
+msgid "The active dataset must have a name"
+msgstr ""
+"활성 데이터 세트의 이름이 있어야 합니다."
+
+#: STATS_DBPRED.R:77
+msgid "The output dataset name is already in use"
+msgstr ""
+"출력 데이터 세트 이름은 아직 사용 중이지 않은 것이어야 합니다."
+
+#: STATS_DBPRED.R:82
+msgid "Either a workspace file or the use-retained option but not both must be specified"
+msgstr ""
+"작업공간 파일 또는 사용하도록 유지된 옵션 중 하나만 지정해야 합니다."
+
+#: STATS_DBPRED.R:92
+msgid "One or more required objects are missing from the specified workspace"
+msgstr ""
+"하나 이상의 필수 개체가 지정된 작업공간에서 누락되었습니다."
+
+#: STATS_DBPRED.R:96
+msgid "The specified workspace does not contain seeds.  It cannot be used for prediction."
+msgstr ""
+"지정된 작업공간에 난수 시작값이 포함되어 있지 않습니다. 예측에 사용할 수 없습니다."
+
+#: STATS_DBPRED.R:107
+msgid "The following required variables are not in the active dataset: %s"
+msgstr ""
+"다음 필수 변수가 활성 데이터 세트에 없습니다. %s"
+
+#: STATS_DBPRED.R:158
+msgid "Computations done by R package fpc function dbscan by Christian Hennig"
+msgstr ""
+"Christian Hennig가 R 패키지 fpc 함수 dbscan으로 계산을 완료했습니다."
+
+#: STATS_DBPRED.R:160
+msgid "Variables"
+msgstr ""
+"변수"
+
+#: STATS_DBPRED.R:161
+msgid "Method"
+msgstr ""
+"방법"
+
+#: STATS_DBPRED.R:162
+msgid "Min Reachability Distance"
+msgstr ""
+"최소 도달가능 거리"
+
+#: STATS_DBPRED.R:163
+msgid "Original Data Scaled"
+msgstr ""
+"원래 데이터 척도"
+
+#: STATS_DBPRED.R:164
+msgid "Minimum Cluster Size"
+msgstr ""
+"최소 군집 크기"
+
+#: STATS_DBPRED.R:165
+msgid "Prediction Dataset"
+msgstr ""
+"예측 데이터 세트"
+
+#: STATS_DBPRED.R:166
+msgid "Workspace File Used"
+msgstr ""
+"사용된 작업공간 파일"
+
+#: STATS_DBPRED.R:167
+msgid "Workspace Creation Date"
+msgstr ""
+"작업공간 작성 날짜"
+
+#: STATS_DBPRED.R:168
+msgid "Number of Prediction Cases"
+msgstr ""
+"예측 케이스 수"
+
+#: STATS_DBPRED.R:169
+msgid "Number of Valid Prediction Cases"
+msgstr ""
+"유효한 예측 케이스 수"
+
+#: STATS_DBPRED.R:175
+msgid "Yes"
+msgstr ""
+"예"
+
+#: STATS_DBPRED.R:175
+msgid "No"
+msgstr ""
+"아니오"
+
+#: STATS_DBPRED.R:178
+msgid "--Retained--"
+msgstr ""
+"--유지됨--"
+
+#: STATS_DBPRED.R:187
+msgid "Settings and Results Summary"
+msgstr ""
+"설정 및 결과 요약"
+
+#: STATS_DBPRED.R:188
+#: STATS_DBPRED.R:190
+msgid "Summary"
+msgstr ""
+"요약(S)"
+
+#: STATS_DBPRED.R:215
+msgid "Predicted Cluster"
+msgstr ""
+"예측 군집"
+
+#: STATS_DBPRED.R:276
+msgid "End of procedure"
+msgstr ""
+"프로시저 끝"
+
+#: STATS_DBPRED.R:303
+msgid "Message Number"
+msgstr ""
+"메시지 번호"
+
+
