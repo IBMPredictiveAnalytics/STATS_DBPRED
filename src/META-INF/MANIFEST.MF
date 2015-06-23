@@ -1,0 +1,16 @@
+Name: STATS_DBPRED
+Dialog-Specs: STATS_DBPRED.spd
+Command-Specs: STATS_DBPRED.xml
+Code-Files: STATS_DBPRED.R
+Misc-Files: markdown.html,extsyntax.css,IBMdialogicon.png
+Summary: Prediction based on density-based clustering
+Description: This procedure uses the results of the companion procedur
+ e, STATS_DBSCAN, to predict cluster values for new cases.
+Author: JKP, IBM SPSS
+Version: 1.0.3
+Product-Version: 18
+Date: 6/25/13
+Categories: statistics, clustering
+Plugins: R
+R-Packages: fpc
+Translation-Catalogues: lang
