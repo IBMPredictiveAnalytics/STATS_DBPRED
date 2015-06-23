@@ -1,0 +1,163 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_DBPRED.R:56
+#: STATS_DBPRED.R:155
+msgid "Density-Based Clustering Prediction"
+msgstr ""
+"Predicción de clústeres basados en densidad"
+
+#: STATS_DBPRED.R:58
+msgid "Density-Based Clustering Prediction: Warnings"
+msgstr ""
+"Predicción de clústeres basados en densidad: advertencias"
+
+#: STATS_DBPRED.R:62
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"El paquete de R %s es necesario pero no se ha podido cargar."
+
+#: STATS_DBPRED.R:73
+msgid "The active dataset must have a name"
+msgstr ""
+"El conjunto de datos activo debe tener un nombre"
+
+#: STATS_DBPRED.R:77
+msgid "The output dataset name is already in use"
+msgstr ""
+"Este nombre de conjunto de datos de resultado ya se está utilizando"
+
+#: STATS_DBPRED.R:82
+msgid "Either a workspace file or the use-retained option but not both must be specified"
+msgstr ""
+"Se debe especificar un archivo de espacio de trabajo o la opción de uso retenido, pero no ambas a la vez"
+
+#: STATS_DBPRED.R:92
+msgid "One or more required objects are missing from the specified workspace"
+msgstr ""
+"Faltan uno o más objetos necesarios en el espacio de trabajo especificado"
+
+#: STATS_DBPRED.R:96
+msgid "The specified workspace does not contain seeds.  It cannot be used for prediction."
+msgstr ""
+"El espacio de trabajo especificado no contiene semillas. No se puede utilizar para hacer predicciones."
+
+#: STATS_DBPRED.R:107
+msgid "The following required variables are not in the active dataset: %s"
+msgstr ""
+"Las siguientes variables necesarias no están en el conjunto de datos activo: %s"
+
+#: STATS_DBPRED.R:158
+msgid "Computations done by R package fpc function dbscan by Christian Hennig"
+msgstr ""
+"Cálculos realizados por el paquete de R fpc, función dbscan por Christian Hennig"
+
+#: STATS_DBPRED.R:160
+msgid "Variables"
+msgstr ""
+"Variables"
+
+#: STATS_DBPRED.R:161
+msgid "Method"
+msgstr ""
+"Método"
+
+#: STATS_DBPRED.R:162
+msgid "Min Reachability Distance"
+msgstr ""
+"Distancia mínima alcanzable"
+
+#: STATS_DBPRED.R:163
+msgid "Original Data Scaled"
+msgstr ""
+"Datos originales escalados"
+
+#: STATS_DBPRED.R:164
+msgid "Minimum Cluster Size"
+msgstr ""
+"Tamaño mínimo de clúster"
+
+#: STATS_DBPRED.R:165
+msgid "Prediction Dataset"
+msgstr ""
+"Conjunto de datos de predicción"
+
+#: STATS_DBPRED.R:166
+msgid "Workspace File Used"
+msgstr ""
+"Archivo de espacio de trabajo utilizado:"
+
+#: STATS_DBPRED.R:167
+msgid "Workspace Creation Date"
+msgstr ""
+"Fecha de creación de espacio de trabajo"
+
+#: STATS_DBPRED.R:168
+msgid "Number of Prediction Cases"
+msgstr ""
+"Número de casos de predicción"
+
+#: STATS_DBPRED.R:169
+msgid "Number of Valid Prediction Cases"
+msgstr ""
+"Número de casos de predicción válidos"
+
+#: STATS_DBPRED.R:175
+msgid "Yes"
+msgstr ""
+"Sí"
+
+#: STATS_DBPRED.R:175
+msgid "No"
+msgstr ""
+"No"
+
+#: STATS_DBPRED.R:178
+msgid "--Retained--"
+msgstr ""
+"--Retenido--"
+
+#: STATS_DBPRED.R:187
+msgid "Settings and Results Summary"
+msgstr ""
+"Resumen de configuraciones y resultados"
+
+#: STATS_DBPRED.R:188
+#: STATS_DBPRED.R:190
+msgid "Summary"
+msgstr ""
+"Resumen"
+
+#: STATS_DBPRED.R:215
+msgid "Predicted Cluster"
+msgstr ""
+"Clúster pronosticado"
+
+#: STATS_DBPRED.R:276
+msgid "End of procedure"
+msgstr ""
+"Fin del procedimiento"
+
+#: STATS_DBPRED.R:303
+msgid "Message Number"
+msgstr ""
+"Número de mensaje"
+
+
