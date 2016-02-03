@@ -1,11 +1,11 @@
 # STATS_DBPRED
 ## Prediction based on density-based clustering
- This procedure uses the results of the companion procedur
+ This procedure uses the results of the companion procedure, STATS_DBSCAN, to predict cluster values for new cases.
 
 ---
 Requirements
 ----
-- IBM SPSS Statistics 18 or later
+- IBM SPSS Statistics 18 or later and the corresponding IBM SPSS Statistics-Integration Plug-in for R.
 
 ---
 Installation intructions
