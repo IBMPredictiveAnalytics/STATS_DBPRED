@@ -7,7 +7,7 @@ Summary: Prediction based on density-based clustering
 Description: This procedure uses the results of the companion procedur
  e, STATS_DBSCAN, to predict cluster values for new cases.
 Author: JKP, IBM SPSS
-Version: 1.0.3
+Version: 1.0.4
 Product-Version: 18
 Date: 6/25/13
 Categories: statistics, clustering
